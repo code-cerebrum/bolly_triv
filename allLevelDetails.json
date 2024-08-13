@@ -1,0 +1,6 @@
+[
+    {"name": "Movies 1", "lvls": 20, "cost": 0, "star": 0, "cover": 0},
+    {"name": "Movies 2", "lvls": 20, "cost": 100, "star": 17, "cover": 0},
+    {"name": "Movies 3", "lvls": 20, "cost": 150, "star": 34, "cover": 0},
+    {"name": "Actors 1", "lvls": 20, "cost": 150, "star": 34, "cover": 0}
+]
