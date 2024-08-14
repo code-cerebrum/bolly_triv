@@ -1,6 +1,20 @@
 [
     {"name": "Movies 1", "lvls": 20, "cost": 0, "star": 0, "cover": 0},
-    {"name": "Movies 2", "lvls": 20, "cost": 100, "star": null, "cover": 0},
-    {"name": "Movies 3", "lvls": 20, "cost": 150, "star": 34, "cover": 0},
-    {"name": "Actors 1", "lvls": 20, "cost": 150, "star": 34, "cover": 0}
+    {"name": "Movies 2", "lvls": 20, "cost": 300, "star": 17, "cover": 0},
+    {"name": "Movies 3", "lvls": 20, "cost": 450, "star": 34, "cover": 0},
+    {"name": "Actors 1", "lvls": 20, "cost": 500, "star": null, "cover": 0},
+    {"name": "Movies 4", "lvls": 20, "cost": 450, "star": 34, "cover": 0},
+    {"name": "Youtuber 1", "lvls": 20, "cost": 1000, "star": null, "cover": 0},
+    {"name": "Movies 5", "lvls": 20, "cost": 450, "star": 34, "cover": 0},
+    {"name": "Movies 6", "lvls": 20, "cost": 450, "star": 34, "cover": 0},
+    {"name": "Actors 2", "lvls": 20, "cost": 800, "star": null, "cover": 0},
+    {"name": "Movies 7", "lvls": 20, "cost": 450, "star": 34, "cover": 0},
+    {"name": "Movies 8", "lvls": 20, "cost": 450, "star": 34, "cover": 0},
+    {"name": "Movies 9", "lvls": 20, "cost": 450, "star": 34, "cover": 0},
+    {"name": "Movies 10", "lvls": 20, "cost": 450, "star": 34, "cover": 0},
+    {"name": "Movies 11", "lvls": 20, "cost": 450, "star": 34, "cover": 0},
+    {"name": "Movies 12", "lvls": 20, "cost": 450, "star": 34, "cover": 0},
+    {"name": "Movies 13", "lvls": 20, "cost": 450, "star": 34, "cover": 0},
+    {"name": "Movies 14", "lvls": 20, "cost": 450, "star": 34, "cover": 0},
+    {"name": "Movies 15", "lvls": 20, "cost": 450, "star": 34, "cover": 0}
 ]
