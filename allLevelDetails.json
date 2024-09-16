@@ -2,7 +2,7 @@
     {"name": "Movies 1", "lvls": 20, "cost": 0, "star": 0, "cover": 0},
     {"name": "Actors 1", "lvls": 20, "cost": 0, "star": 0, "cover": 19},
     {"name": "Movies 2", "lvls": 20, "cost": 300, "star": 17, "cover": 0},
-    {"name": "Actors 2", "lvls": 20, "cost": 350, "star": null, "cover": 11},
+    {"name": "Actors 2", "lvls": 20, "cost": 350, "star": 30, "cover": 11},
     {"name": "Movies 3", "lvls": 20, "cost": 450, "star": 34, "cover": 0},
     {"name": "Movies 4", "lvls": 20, "cost": 550, "star": 51, "cover": 0},
     {"name": "Youtuber 1", "lvls": 20, "cost": 1000, "star": null, "cover": 0},
